@@ -8,7 +8,7 @@
   "clueIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
   "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
   "herocoins": "1",
-  "color": "0xFF7a3543"
+  "color": "Color(0xFF132627)"
 },
 
 
@@ -21,6 +21,6 @@
     "hint": "This is the hint text2",
     "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
     "herocoins": "5",
-    "color": "0xFF7a3543"
+    "color": "Color(0xFF132627)"
   }
 ]
