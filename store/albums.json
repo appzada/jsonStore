@@ -1,14 +1,16 @@
 [
   {
-  "id": 1,
-  "intro": "This is the introduction text",
+  "id": 0,
+  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
   "introIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
-  "clue": "This is the clue text",
   "clueIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
-  "hint": "This is the hint text",
   "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
-  "herocoins": "1"
+  "herocoins": "1",
+  "color": "Colors.red"
 },
+
 
   {
     "id": 2,
@@ -19,5 +21,6 @@
     "hint": "This is the hint text2",
     "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
     "herocoins": "5"
+    "color": "Colors.red"
   }
 ]
