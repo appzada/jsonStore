@@ -5,8 +5,8 @@
   "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
   "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
   "introIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
-  "clueIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
-  "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+  "clueIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
+  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
   "herocoins": "1",
   "color": "Color(0xFF132627)"
 },
@@ -17,9 +17,9 @@
     "intro": "This is the introduction text\n\nDoes it work over two lines.",
     "introIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
     "clue": "This is the clue text2",
-    "clueIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+    "clueIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
     "hint": "This is the hint text2",
-    "hintIMG": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+    "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
     "herocoins": "5",
     "color": "Color(0xFF132627)"
   }
