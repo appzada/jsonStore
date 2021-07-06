@@ -4,8 +4,8 @@
   "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
   "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
   "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "introIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
-  "clueIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
+  "introIMG": "https://www.goexworldwide.com/img/IntroHoldingImage.png",
+  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
   "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
   "herocoins": "1",
   "color": "Color(0xFF132627)"
@@ -15,9 +15,9 @@
   {
     "id": 2,
     "intro": "This is the introduction text\n\nDoes it work over two lines.",
-    "introIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
+    "introIMG": "https://www.goexworldwide.com/img/IntroHoldingImage.png",
     "clue": "This is the clue text2",
-    "clueIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
+    "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
     "hint": "This is the hint text2",
     "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
     "herocoins": "5",
