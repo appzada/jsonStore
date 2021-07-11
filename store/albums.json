@@ -1,14 +1,21 @@
 [
   {
   "id": 0,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+  "intro": "This is a 0id holding Mission INTRO MESSAGE. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
+  "clue": "This is a 0id holding CLUE TEXT. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
+  "hint": "This is a 0id holding HINT TEXT. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
   "introIMG": "https://www.goexworldwide.com/img/IntroHoldingImage.png",
   "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
   "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
   "herocoins": "1",
-  "color": "Color(0xFF132627)"
+  "dashWarningMission1": "Live status: Mission is going-ahead as planned.",
+  "dashWarningMission2": "Live status: Mission is going-ahead as planned.",
+  "prizeListMission1": "This is a list of prizes for Mission One.\nThe prizes will be cool and include:\n\n- A BMX\n-Cash\n- Hero Games winner t-shirt\n\n",
+  "prizeListMission2": "This is a list of prizes for Mission Two.\nThe prizes will be cool and include:\n\n- A BMX\n-Cash\n- Hero Games winner t-shirt\n\n",
+  "emailMission1": "This is a holding email for Mission One.\n\nIf the game is live, this indicates an error. Call 0207 971 1453.\n\n",
+  "emailMission2": "This is a holding email for Mission Two.\n\nIf the game is live, this indicates an error. Call 0207 971 1453.\n\n",
+  "revealcluesMission1": "Here are the clue answers for Mission One\n\n",
+  "revealcluesMission2": "Here are the clue answers for Mission Two\n\n"
 },
 
 
