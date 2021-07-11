@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 
 void main() {
   runApp(MyApp());
@@ -93,6 +94,13 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+
+        Container(height: 300,
+          child: WebView(
+          initialUrl: 'https://www.goexworldwide.com/',
+          ),
+        ),
+
             Text(
               'You have pushed the button this many times:',
             ),
