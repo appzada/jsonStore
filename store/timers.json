@@ -30,7 +30,7 @@
   {
     "id": 2,
     "name": "Live Mission Two",
-    "date": "Sunday 15 August '21",
+    "date": "Sunday 15 August 2021",
     "status": "Mission Confirmed",
     "location": "London, England, United Kingdom"
   },
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "name": "Live Mission Two",
-    "date": "Sunday 22 August '21",
+    "date": "Sunday 22 August 2021",
     "status": "Mission Confirmed",
     "location": "London, England, United Kingdom"
   },
@@ -46,7 +46,7 @@
   {
     "id": 4,
     "name": "Live Mission Two",
-    "date": "Sunday 29 August '21",
+    "date": "Sunday 29 August 2021",
     "status": "Mission Confirmed",
     "location": "London, England, United Kingdom"
   },
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "name": "Live Mission Two",
-    "date": "Sunday 5 September '21",
+    "date": "Sunday 5 September 2021",
     "status": "Mission Confirmed",
     "location": "London, England, United Kingdom"
   },
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Live Mission Two",
-    "date": "Sunday 12 September '21",
+    "date": "Sunday 12 September 2021",
     "status": "Mission Confirmed",
     "location": "London, England, United Kingdom"
   }
