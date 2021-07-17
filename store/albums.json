@@ -13,78 +13,111 @@
 
   {
    "id": 1,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+  "intro": "This is the introduction text for clue 1.",
+
+  "clue": "This is the clue text for clue 1.",
+
+    "hint": "This is the hint text for clue 1.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
 
   },
   
   {
    "id": 2,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 2.",
+
+    "clue": "This is the clue text for clue 2.",
+
+    "hint": "This is the hint text for clue 2.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
 
   },
   
   {
    "id": 3,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 3.",
+
+    "clue": "This is the clue text for clue 3.",
+
+    "hint": "This is the hint text for clue 3.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
 
   },
   
   {
    "id": 4,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 4.",
+
+    "clue": "This is the clue text for clue 4.",
+
+    "hint": "This is the hint text for clue 4.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
 
   },
   
   {
    "id": 5,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 5.",
+
+    "clue": "This is the clue text for clue 5.",
+
+    "hint": "This is the hint text for clue 5.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
 
   },
   
   {
    "id": 6,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 6.",
+
+    "clue": "This is the clue text for clue 6.",
+
+    "hint": "This is the hint text for clue 6.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
 
   },
   
   {
    "id": 7,
-  "intro": "If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "clue": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
-  "hint": " If you are seeing this text the app is reading from the wrong set of clues. Call 0207 971 1453 to report the error.",
+
+    "intro": "This is the introduction text for clue 7.",
+
+    "clue": "This is the clue text for clue 7.",
+
+    "hint": "This is the hint text for clue 7.",
+
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png"
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
 
   }
   
