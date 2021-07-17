@@ -1,13 +1,6 @@
 [
   {
   "id": 0,
-  "intro": "This is a 0id holding Mission INTRO MESSAGE. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
-  "clue": "This is a 0id holding CLUE TEXT. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
-  "hint": "This is a 0id holding HINT TEXT. If the game is live, this indicates an error. Call 0207 971 1453\n\n",
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
-  "clueIMG": "https://www.goexworldwide.com/img/ClueHoldingImage.png",
-  "hintIMG": "https://www.goexworldwide.com/img/imageWlogo.png",
-
 
   "prizeListMission1": "This is a list of prizes for Mission One. The prizes will be cool and include:\n\n- A BMX\n- Cash\n- Hero Games winner t-shirt\n\n",
 
