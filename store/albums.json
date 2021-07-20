@@ -14,15 +14,15 @@
   {
    "id": 1,
 
-  "intro": "This is your first clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n.",
+  "intro": "This is your first clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
 
   "clue": "This is the clue text for clue 1.",
 
     "hint": "This is the hint text for clue 1.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
 
 
   },
