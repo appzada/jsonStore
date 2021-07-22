@@ -1,0 +1,124 @@
+[
+  {
+  "id": 1,
+
+  "prizeListMission1": "For their services to protecting London, the first Crime Fighter that finds the location of the Viper will be rewarded with all of the following:\n\n- Mafia Bike Kush 2+ BMX\n- Exclusive HG winner t-shirt\n- Special additional prize\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
+
+  "emailMission1": "This is a holding email for Mission One.\n\nIf the game is live, this indicates an error. Call 0207 971 1453.\n\n",
+
+  "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
+
+},
+
+
+  {
+   "id": 1,
+
+  "intro": "This is your first clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
+
+  "clue": "This is the clue text for clue 1.",
+
+    "hint": "This is the hint text for clue 1.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
+
+
+  },
+  
+  {
+   "id": 2,
+
+    "intro": "This is the introduction text for clue 2.",
+
+    "clue": "This is the clue text for clue 2.",
+
+    "hint": "This is the hint text for clue 2.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+  
+  {
+   "id": 3,
+
+    "intro": "This is the introduction text for clue 3.",
+
+    "clue": "This is the clue text for clue 3.",
+
+    "hint": "This is the hint text for clue 3.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+  
+  {
+   "id": 4,
+
+    "intro": "This is the introduction text for clue 4.",
+
+    "clue": "This is the clue text for clue 4.",
+
+    "hint": "This is the hint text for clue 4.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+  
+  {
+   "id": 5,
+
+    "intro": "This is the introduction text for clue 5.",
+
+    "clue": "This is the clue text for clue 5.",
+
+    "hint": "This is the hint text for clue 5.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+  
+  {
+   "id": 6,
+
+    "intro": "This is the introduction text for clue 6.",
+
+    "clue": "This is the clue text for clue 6.",
+
+    "hint": "This is the hint text for clue 6.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+  },
+  
+  {
+   "id": 7,
+
+    "intro": "This is the introduction text for clue 7.",
+
+    "clue": "This is the clue text for clue 7.",
+
+    "hint": "This is the hint text for clue 7.",
+
+  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+  }
+  
+]
