@@ -14,11 +14,11 @@
   {
    "id": 1,
 
-  "intro": "This is your first clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
+  "intro": "This is your first WILD clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
 
-  "clue": "This is the clue text for clue 1.",
+  "clue": "This is the WILD clue text for clue 1.",
 
-    "hint": "This is the hint text for clue 1.",
+    "hint": "This is the WILD hint text for clue 1.",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
 
@@ -30,11 +30,11 @@
   {
    "id": 2,
 
-    "intro": "This is the introduction text for clue 2.",
+    "intro": "This is the WILD introduction text for clue 2.",
 
-    "clue": "This is the clue text for clue 2.",
+    "clue": "This is the WILD clue text for clue 2.",
 
-    "hint": "This is the hint text for clue 2.",
+    "hint": "This is the WILD hint text for clue 2.",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
@@ -46,11 +46,11 @@
   {
    "id": 3,
 
-    "intro": "This is the introduction text for clue 3.",
+    "intro": "This is the WILD introduction text for clue 3.",
 
-    "clue": "This is the clue text for clue 3.",
+    "clue": "This is the WILD clue text for clue 3.",
 
-    "hint": "This is the hint text for clue 3.",
+    "hint": "This is the WILD hint text for clue 3.",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
