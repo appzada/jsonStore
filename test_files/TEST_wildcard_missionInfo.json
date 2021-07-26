@@ -32,7 +32,7 @@
 
     "intro": "This is the introduction text for clue 2.",
 
-    "clue": "This is the clue text for clue 2.",
+    "clue": "This is the clue text for clue 2 Normal.",
 
     "hint": "This is the hint text for clue 2.",
 
@@ -46,7 +46,7 @@
   {
    "id": 3,
 
-    "intro": "This is the introduction text for clue 3 CHANGED.",
+    "intro": "This is the introduction text for clue 3 Normal.",
 
     "clue": "This is the clue text for clue 3.",
 
