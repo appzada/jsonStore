@@ -61,29 +61,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
-   "id": 4,
+   "id":0,
 
-    "intro": "This is the introduction text for clue 4.",
+    "intro": "This is used to turn the FREE WILDCARD MISSION ON AND OFF.",
 
-    "clue": "This is the clue text for clue 4.",
+    "clue": "TEST TEST TEST TEST",
 
-    "hint": "This is the hint text for clue 4.",
+    "hint": "TEST TEST TEST TEST .",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
