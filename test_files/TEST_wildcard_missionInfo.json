@@ -30,15 +30,15 @@
   {
    "id": 2,
 
-    "intro": "This is the introduction text for clue 2.",
+    "intro": "This is the introduction text for clue 2. 28 July",
 
-    "clue": "This is the clue text for clue 2 Normal new CHANGE.",
+    "clue": "This is the clue text for clue 2 28 July.",
 
-    "hint": "This is the hint text for clue 2.",
+    "hint": "This is the hint text for clue 2. 28 July",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
 
 
   },
@@ -46,18 +46,22 @@
   {
    "id": 3,
 
-    "intro": "This is the introduction text for clue 3 new Change.",
+    "intro": "This is the introduction text for clue 3. 28 July",
 
-    "clue": "This is the clue text for clue 3.",
+    "clue": "This is the clue text for clue 3. 28 July",
 
-    "hint": "This is the hint text for clue 3.",
+    "hint": "This is the hint text for clue. 28 July3.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
 
 
   },
+
+
+
+
 
 
 
