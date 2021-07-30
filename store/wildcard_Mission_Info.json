@@ -64,9 +64,9 @@
 
     "intro": "This turns on or off the FREE WILDCARD MISSION.",
 
-    "clue": "This is the clue text for clue 4.",
+    "clue": "This turns on or off the FREE WILDCARD MISSION.",
 
-    "hint": "This is the hint text for clue 4.",
+    "hint": "This turns on or off the FREE WILDCARD MISSION.",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
@@ -76,13 +76,13 @@
   },
   
   {
-   "id": 5,
+   "id": 1,
 
-    "intro": "This is the introduction text for clue 5.",
+    "intro": "This is a warning message.",
 
-    "clue": "This is the clue text for clue 5.",
+    "clue": "THIS TURNS ON THE WARNING SECTION.",
 
-    "hint": "This is the hint text for clue 5.",
+    "hint": "THIS TURNS ON THE WARNING SECTION.",
 
   "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
