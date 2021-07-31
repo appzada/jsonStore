@@ -1,6 +1,6 @@
 [
   {
-  "id": 1,
+  "id": 0,
 
   "prizeListMission1": "WildCard Missions are rapid, quick-fire missions not listed in the normal schedule.\n\nThey are over almost as fast as they have begun, so you better be quick and a little bit lucky!\n\nGood luck, Crime Fighter!\n",
 
@@ -60,7 +60,7 @@
   },
   
   {
-   "id": 1,
+   "id": 0,
 
     "intro": "This turns on or off the FREE WILDCARD MISSION.",
 
@@ -76,7 +76,7 @@
   },
   
   {
-   "id": 1,
+   "id": 0,
 
     "intro": "Due to adverse weather warnings today's live scheduled mission will be replaced by an online Wildcard Mission.\n\nNew rewards list is in place.\n\nGood luck with the Wildcard Mission, Crime Fighter.",
 
