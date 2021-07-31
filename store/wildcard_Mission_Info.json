@@ -96,13 +96,13 @@
 
     "intro": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
 
-    "clue": "The map below shows the general Mission area. A more detailed map is released 24-48 hours before the Mission starts.",
+    "clue": "This mission is scheduled to occur in:\n\nCentral London\n\nMission locations are subject to change. Please check back before the Mission starts.",
 
     "hint": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD).",
 
   "introIMG": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/missionMap.png"
 
   },
   
