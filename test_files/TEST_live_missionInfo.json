@@ -16,7 +16,7 @@
 
     "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.\n\n",
 
-    "clue": " Earlier today we raided the Viper's hideout.\n\n Here is an image of scene.\n\nDo you think this could be a clue?",
+    "clue": " Earlier today we raided the Viper's hideout.\n\n Here is an image of scene. Do you think this could be a clue?",
 
     "hint": " Most of central London is roads and pavements.\n\n Where could the mud have come from?",
 
@@ -109,11 +109,11 @@
   {
     "id": 7,
 
-    "intro": "Military Intelligence here… \n\n We have identified unusual radio signals coming from these areas. \n\n ",
+    "intro": "Military Intelligence here… \n\n We have identified unusual radio signals coming from these areas.\n\n ",
 
-    "clue": "Only once of these locations is close to a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
+    "clue": "One of these must be the doomsday device…",
 
-    "hint": " Only once of these locations is close to a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
+    "hint": "Only one of these locations is close to both a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p7.png",
 
