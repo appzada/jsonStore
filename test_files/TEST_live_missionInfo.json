@@ -1,124 +1,125 @@
 [
   {
-  "id": 0,
+    "id": 0,
 
-  "prizeListMission1": "For their services to protecting London, the first Crime Fighter that finds the location of the Viper will be rewarded with all of the following:\n\n- Mafia Bike Kush 2+ BMX\n- Exclusive HG winner t-shirt\n- £100 cash plus £100 additional bonus cash if wearing a superhero clothing item\n\nRunner-up prizes are also available.\n\nPlease note that for safety and security reasons, cash prizes may be paid via bank transfer at the discretion of our staff.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
+    "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £50 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-  "emailMission1": "This is a holding email for Mission One.\n\nIf the game is live, this indicates an error. Call 0207 971 1453.\n\n",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. The device detonates in 60 minutes. Find it and defuse it before it’s too late.... .\n\nDo not enter any restricted areas or approach any live animals during this mission.",
 
-  "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
+    "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
 
-},
+  },
 
 
   {
-   "id": 1,
+    "id": 1,
 
-  "intro": "This is the introduction text for clue 1.",
+    "intro": "Glad to have you back on the team, Crime Fighter.n\nThings have just gotten pretty serious.n\n",
 
-  "clue": "This is the clue text for clue 1.",
+    "clue": " Earlier today we raided the Viper's hideout.n\nHere is an image of scene.",
 
-    "hint": "This is the hint text for clue 1.",
+    "hint": " Most of central London is roads and pavements.n\nWhere could the mud have come from?",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c1.png"
 
 
   },
-  
+
   {
-   "id": 2,
+    "id": 2,
 
-    "intro": "This is the introduction text for clue 2.",
+    "intro": "Ha… it’s you again. You couldn't catch me in training, what makes you think you can catch me now!? ",
 
-    "clue": "This is the clue text for clue 2.",
+    "clue": "Let’s make it a little more fun this time… what about a game of hyde and seek? ",
 
-    "hint": "This is the hint text for clue 2.",
+    "hint": "There are many places to play hide and seek in London. But not many you can play hyde and seek.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p2.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c2.png"
 
 
   },
-  
+
   {
-   "id": 3,
+    "id": 3,
 
-    "intro": "This is the introduction text for clue 3.",
+    "intro": "We have intercepted a call from the Viper. There was some background noise…",
 
-    "clue": "This is the clue text for clue 3.",
+    "clue": "We could hear something in the background that sounded a little bit like horses... ",
 
-    "hint": "This is the hint text for clue 3.",
+    "hint": "There are a handful of places in this part of London with horses…\n\n Horse Guards Parade, Hyde Park, Buckingham Palace. Maybe the Viper is near one of these. ",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p3.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c3.png"
 
 
   },
-  
+
   {
-   "id": 4,
+    "id": 4,
 
-    "intro": "This is the introduction text for clue 4.",
+    "intro": "I'm the Jester. Sometimes I tell the truth sometimes I tell a lie…",
 
-    "clue": "This is the clue text for clue 4.",
+    "clue": "The Viper has placed the doomsday device here…",
 
-    "hint": "This is the hint text for clue 4.",
+    "hint": "There is only a 20% probability that the Jester is telling the truth this time.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p4.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c4.png"
 
 
   },
-  
+
   {
-   "id": 5,
+    "id": 5,
 
-    "intro": "This is the introduction text for clue 5.",
+    "intro": "We have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.",
 
-    "clue": "This is the clue text for clue 5.",
+    "clue": "You'll need a numerical code to defuse the doomsday device. The Viper used this puzzle to remember the code. ",
 
-    "hint": "This is the hint text for clue 5.",
+    "hint": "There is an 80% chance that the second number is 9 and the forth number is 0. You'll have to work out the rest yourself.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p5.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c5.png"
 
 
   },
-  
+
   {
-   "id": 6,
+    "id": 6,
 
-    "intro": "This is the introduction text for clue 6.",
+    "intro": "We have discovered more information about the doomsday device…",
 
-    "clue": "This is the clue text for clue 6.",
+    "clue": "The device needs to be close to falling water to disperse properly.",
 
-    "hint": "This is the hint text for clue 6.",
+    "hint": "There is a waterfall in Hyde Park if you know where to look.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p6.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c6.png"
 
   },
-  
+
   {
-   "id": 7,
+    "id": 7,
 
-    "intro": "This is the introduction text for clue 7.",
+    "intro": "Military Intelligence here…\n\n We have identified an unusual radio signals coming from these areas.",
 
-    "clue": "This is the clue text for clue 7.",
+    "clue": "Only once of these locations is close to a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
 
     "hint": "This is the hint text for clue 7.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p7.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c7.png"
 
   }
-  
+
 ]
+

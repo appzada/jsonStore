@@ -20,9 +20,9 @@
 
     "hint": "This is the WILD hint text for clue 1.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/c1.png"
 
 
   },
@@ -36,9 +36,9 @@
 
     "hint": "This is the WILD hint text for clue 2.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/p2.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/c2.png"
 
 
   },
@@ -52,9 +52,9 @@
 
     "hint": "This is the WILD hint text for clue 3.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/p3.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/c3.png"
 
 
   },
@@ -68,9 +68,9 @@
 
     "hint": "This turns on or off the FREE WILDCARD MISSION.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+  "introIMG": "https://appzada.github.io/jsonStore/img/p4.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+  "clueIMG": "https://appzada.github.io/jsonStore/img/c4.png"
 
 
   },
