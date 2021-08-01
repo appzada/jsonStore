@@ -4,7 +4,7 @@
 
     "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £50 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. The device detonates in 60 minutes. Find it and defuse it before it’s too late....\n\nTeam Notice\n\nDo not enter any restricted areas or approach any live animals during this mission.",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. \n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late.... .\n\nCrime Fighter notice: Do not enter any restricted areas or approach any live animals during this mission.",
 
     "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
 
@@ -16,9 +16,9 @@
 
     "intro": "Glad to have you back on the team, Crime Fighter.n\nThings have just gotten pretty serious.n\n",
 
-    "clue": " Earlier today we raided the Viper's hideout.n\nHere is an image of scene.",
+    "clue": " Earlier today we raided the Viper's hideout. \n\n Here is an image of scene. \n\nDo you think this could be a clue?",
 
-    "hint": " Most of central London is roads and pavements.n\nWhere could the mud have come from?",
+    "hint": " Most of central London is roads and pavements. \n\n Where could the mud have come from?",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
@@ -30,7 +30,7 @@
   {
     "id": 2,
 
-    "intro": "Ha… it’s you again. You couldn't catch me in training, what makes you think you can catch me now!? ",
+    "intro": "Ha… it’s you again.\n\nYou couldn't catch me in training, what makes you think you can catch me now!? \n\n ",
 
     "clue": "Let’s make it a little more fun this time… what about a game of hyde and seek? ",
 
@@ -46,7 +46,7 @@
   {
     "id": 3,
 
-    "intro": "We have intercepted a call from the Viper. There was some background noise…",
+    "intro": "We have intercepted a call from the Viper. \n\nThere was some background noise, might be helpful.\n\n ",
 
     "clue": "We could hear something in the background that sounded a little bit like horses... ",
 
@@ -62,7 +62,7 @@
   {
     "id": 4,
 
-    "intro": "I'm the Jester. Sometimes I tell the truth sometimes I tell a lie…",
+    "intro": "Hello there my little friend! \n\nI'm the Jester. Sometimes I tell the truth sometimes I tell a lie…\n\nWhich one will it be today!? \n\n",
 
     "clue": "The Viper has placed the doomsday device here…",
 
@@ -78,7 +78,7 @@
   {
     "id": 5,
 
-    "intro": "We have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.",
+    "intro": "Chief of Police here…\n\nWe have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.\n\n ",
 
     "clue": "You'll need a numerical code to defuse the doomsday device. The Viper used this puzzle to remember the code. ",
 
@@ -94,7 +94,7 @@
   {
     "id": 6,
 
-    "intro": "We have discovered more information about the doomsday device…",
+    "intro": "You’re doing great Crime Fighter!\n\n We have discovered more information about the doomsday device…\n\n ",
 
     "clue": "The device needs to be close to falling water to disperse properly.",
 
@@ -109,11 +109,11 @@
   {
     "id": 7,
 
-    "intro": "Military Intelligence here…\n\n We have identified an unusual radio signals coming from these areas.",
+    "intro": "Military Intelligence here… \n\n We have identified unusual radio signals coming from these areas. \n\n ",
 
     "clue": "Only once of these locations is close to a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
 
-    "hint": "This is the hint text for clue 7.",
+    "hint": " Only once of these locations is close to a horse track and near a waterfall. Still unsure? Go with the 'first' that comes to mind…",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p7.png",
 
