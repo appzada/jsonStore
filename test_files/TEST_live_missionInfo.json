@@ -4,7 +4,7 @@
 
     "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £50 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. \n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late.... \n\nCrime Fighter notice: Do not enter any restricted areas or approach any live animals during this mission.",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. \n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late.... \n\Mission Notice: Do not enter any restricted areas or approach any live animals during this mission.",
 
     "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
 
@@ -16,9 +16,9 @@
 
     "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.\n\n",
 
-    "clue": " Earlier today we raided the Viper's hideout.\n\n Here is an image of scene. Do you think this could be a clue?",
+    "clue": " Earlier today we raided the Viper's hideout.\n\nHere is an image of scene. Do you think this could be a clue?",
 
-    "hint": " Most of central London is roads and pavements.\n\n Where could the mud have come from?",
+    "hint": " Most of central London is roads and pavements.\n\nWhere could the mud have come from?",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
@@ -46,7 +46,7 @@
   {
     "id": 3,
 
-    "intro": "We have intercepted a call from the Viper. \n\nThere was some background noise, might be helpful.\n\n ",
+    "intro": "We have intercepted a call made from the Viper about an hour ago. \n\nThere was some background noise. It might help you locate the doomsday device.\n\n ",
 
     "clue": "We could hear something in the background that sounded a little bit like horses... ",
 
@@ -78,7 +78,7 @@
   {
     "id": 5,
 
-    "intro": "Chief of Police here…\n\nWe have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.\n\n ",
+    "intro": "Good afternoon Crime Fighter.\n\nWe have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.\n\n ",
 
     "clue": "You'll need a numerical code to defuse the doomsday device. The Viper used this puzzle to remember the code. ",
 
@@ -94,7 +94,7 @@
   {
     "id": 6,
 
-    "intro": "You’re doing great Crime Fighter!\n\n We have discovered more information about the doomsday device…\n\n ",
+    "intro": "You’re doing great Crime Fighter!\n\nWe have discovered more information about the doomsday device…\n\n ",
 
     "clue": "The device needs to be close to falling water to disperse properly.",
 
@@ -109,7 +109,7 @@
   {
     "id": 7,
 
-    "intro": "Military Intelligence here… \n\n We have identified unusual radio signals coming from these areas.\n\n ",
+    "intro": "This is Joe from Military Intelligence.\n\nWe have identified unusual radio signals coming from these areas.\n\n ",
 
     "clue": "One of these must be the doomsday device…",
 
