@@ -4,7 +4,7 @@
 
     "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £50 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. \n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late.... .\n\nCrime Fighter notice: Do not enter any restricted areas or approach any live animals during this mission.",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London. \n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late.... \n\nCrime Fighter notice: Do not enter any restricted areas or approach any live animals during this mission.",
 
     "revealcluesMission1": "Here are the clue answers for Mission One\n\n"
 
@@ -14,11 +14,11 @@
   {
     "id": 1,
 
-    "intro": "Glad to have you back on the team, Crime Fighter.n\nThings have just gotten pretty serious.n\n",
+    "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.\n\n",
 
-    "clue": " Earlier today we raided the Viper's hideout. \n\n Here is an image of scene. \n\nDo you think this could be a clue?",
+    "clue": " Earlier today we raided the Viper's hideout.\n\n Here is an image of scene.\n\nDo you think this could be a clue?",
 
-    "hint": " Most of central London is roads and pavements. \n\n Where could the mud have come from?",
+    "hint": " Most of central London is roads and pavements.\n\n Where could the mud have come from?",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
@@ -30,9 +30,9 @@
   {
     "id": 2,
 
-    "intro": "Ha… it’s you again.\n\nYou couldn't catch me in training, what makes you think you can catch me now!? \n\n ",
+    "intro": "Ha… it’s you again.\n\nYou couldn't catch me in training, what makes you think you can catch me now!?\n\n ",
 
-    "clue": "Let’s make it a little more fun this time… what about a game of hyde and seek? ",
+    "clue": "Let’s make it a little more fun this time…\n\n What about a game of hyde and seek?",
 
     "hint": "There are many places to play hide and seek in London. But not many you can play hyde and seek.",
 
