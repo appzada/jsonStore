@@ -100,15 +100,15 @@
   {
    "id": 6,
 
-    "intro": "This is the introduction text for clue 6.",
+    "intro": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
 
-    "clue": "This is the clue text for clue 6.",
+    "clue": "Central London",
 
-    "hint": "This is the hint text for clue 6.",
+    "hint": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD).",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/missionMap.png"
 
   },
   
