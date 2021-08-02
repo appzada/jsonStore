@@ -1,6 +1,6 @@
 [
   {
-  "id":0,
+  "id":1,
 
   "prizeListMission1": "Wildcard Missions are quick-fire, intense crime-fighting missions not listed on the schedule.\n\nThey are only for the most skilled Crime Fighter.\n\nAre you up to the job!?\n\n",
 
@@ -66,7 +66,7 @@
 
 
   {
-   "id":0,
+   "id":1,
 
     "intro": "This is used to turn the FREE WILDCARD MISSION ON AND OFF.",
 
@@ -82,9 +82,9 @@
   },
   
   {
-   "id": 5,
+   "id": 1,
 
-    "intro": "This is the introduction text for clue 5.",
+    "intro": "This is a test of the emergency warning system.",
 
     "clue": "This is the clue text for clue 5.",
 

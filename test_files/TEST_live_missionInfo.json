@@ -16,9 +16,9 @@
 
     "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.\n\n",
 
-    "clue": " Earlier today we raided the Viper's hideout.\n\nHere is an image of scene. Do you think this could be a clue?",
+    "clue": " Earlier today we raided the Viper's hideout. Do you notice anything?",
 
-    "hint": " Most of central London is roads and pavements.\n\nWhere could the mud have come from?",
+    "hint": " Most of central London is roads and pavements.\n\nWhere could the muddy shoe prints have come from?",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
