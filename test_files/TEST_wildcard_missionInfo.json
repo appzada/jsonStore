@@ -1,104 +1,98 @@
 [
   {
-  "id":0,
+    "id": 0,
 
-  "prizeListMission1": "Wildcard Missions are quick-fire, intense crime-fighting missions not listed on the schedule.\n\nThey are only for the most skilled Crime Fighter.\n\nAre you up to the job!?\n\n",
+    "prizeListMission1": "WildCard Missions are rapid, quick-fire missions not listed in the normal schedule.\n\nThey are over almost as fast as they have begun, so you better be quick and a little bit lucky!\n\nGood luck, Crime Fighter!\n",
 
-  "emailMission1": "Here is some text setting out what the WildCard Mission is all about. Testing Free.",
+    "emailMission1": "The Viper has sent a coded letter to the Police. It self-destructs in 15 minutes. Your mission is to help the Police decipher the code before it’s too late.\n\nTo win be the first Crime Fighter to send your name and the decoded letter to Phantom Duo.\n\nThe Duo can be contacted by any one of the following:\n\nText (standard rate)\n07864 711 384\n\nWhatasapp)\n07864 711 384\n\nEmail\nhero@herogames.live\n\nTwitter\n@herogameslive\n\nInstagram\n@herogameslive\n\n",
 
-  "revealcluesMission1": "THIS TURNS ON AND OFF THE PAID WILDCARD TEST TEST TEST TEST TEST TEST TEST TEST"
-
-},
-
-
-  {
-   "id": 1,
-
-  "intro": "This is your first clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
-
-  "clue": "This is the clue text for clue 1.",
-
-    "hint": "This is the hint text for clue 1.",
-
-  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
-
-  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
-
-
-  },
-  
-  {
-   "id": 2,
-
-    "intro": "This is the introduction text for clue 2. 28 July",
-
-    "clue": "This is the clue text for clue 2 28 July.",
-
-    "hint": "This is the hint text for clue 2. 28 July",
-
-  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
-
-  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
-
-
-  },
-  
-  {
-   "id": 3,
-
-    "intro": "This is the introduction text for clue 3. 28 July",
-
-    "clue": "This is the clue text for clue 3. 28 July",
-
-    "hint": "This is the hint text for clue. 28 July3.",
-
-  "introIMG": "https://appzada.github.io/jsonStore/img/duo.png",
-
-  "clueIMG": "https://appzada.github.io/jsonStore/img/duo.png"
-
+    "revealcluesMission1": "LIVE WILDCARD LIVE WILDCARD LIVE WILDCARD"
 
   },
 
 
-
-
-
-
-
   {
-   "id":0,
+    "id": 1,
 
-    "intro": "This is used to turn the FREE WILDCARD MISSION ON AND OFF.",
+    "intro": "This is your first WILD clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
 
-    "clue": "TEST TEST TEST TEST",
+    "clue": " Here is the letter. Be quick, it self-destructs in a few minutes.",
 
-    "hint": "TEST TEST TEST TEST .",
+    "hint": "This letter is in English so perhaps see if you can identify any themes in the numbers. Looking for possible vowels could be helpful.\n\n Vowels are A, E, I, O and U and almost every English letter has at least one.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c1.png"
 
 
   },
-  
+
   {
-   "id": 0,
+    "id": 2,
 
-    "intro": "This is a test of the emergency warning system.",
+    "intro": "I can see you’re struggling Crime Fighter.\n\nTime for me to have a little fun.\n\n",
 
-    "clue": "THIS TURNS ON AND OFF THE EMERGENCY MESSAGE TEST TEST TEST.",
+    "clue": "The last word in my letter refers to the day something is going to happen. You’ve been warned…",
 
-    "hint": "THIS TURNS ON AND OFF THE EMERGENCY MESSAGE TEST TEST TEST..",
+    "hint": "There are only three days of the week with six letters. See if you can work out which day of the week the Viper is referring to. If you can do that, you can use the information to help solve the rest of the code.\n\nAlso, don’t all days end in the same last three letters? ",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/p2.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c2.png"
 
 
   },
-  
+
   {
-   "id": 6,
+    "id": 3,
+
+    "intro": "Our professional code breakers have made a lot of progress.\n\nCan you finish it off before it’s too late?\n\n",
+
+    "clue": " This is what they have done so far. There isn’t much time left. We need your help Crime Fighter!",
+
+    "hint": " You can be confident that the Police code breakers have got their parts of the deciphered code correct",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p3.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c3.png"
+
+
+  },
+
+  {
+    "id": 0,
+
+    "intro": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "clue": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "hint": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p4.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c4.png"
+
+
+  },
+
+  {
+    "id": 0,
+
+    "intro": "Due to adverse weather warnings today's live scheduled mission will be replaced by an online Wildcard Mission.\n\nNew rewards list is in place.\n\nGood luck with the Wildcard Mission, Crime Fighter.",
+
+    "clue": "THIS TURNS ON THE WARNING SECTION.",
+
+    "hint": "THIS TURNS ON THE WARNING SECTION.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+
+  {
+    "id": 6,
 
     "intro": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
 
@@ -111,9 +105,9 @@
     "clueIMG": "https://appzada.github.io/jsonStore/img/missionMap.png"
 
   },
-  
+
   {
-   "id": 7,
+    "id": 7,
 
     "intro": "This is the introduction text for clue 7.",
 
@@ -121,10 +115,11 @@
 
     "hint": "This is the hint text for clue 7.",
 
-  "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+    "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
-  "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+    "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
 
   }
-  
+
 ]
+
