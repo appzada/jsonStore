@@ -1,0 +1,125 @@
+[
+  {
+    "id": 0,
+
+    "prizeListMission1": "WildCard Missions are rapid, quick-fire missions not listed in the normal schedule.\n\nThey are over almost as fast as they have begun, so you better be quick and a little bit lucky!\n\nGood luck, Crime Fighter!\n",
+
+    "emailMission1": "The Viper has sent a coded letter to the Police. It self-destructs in 15 minutes. Your mission is to help the Police decipher the code before it’s too late.\n\nTo win be the first Crime Fighter to send your name and the decoded letter to the Phantom Duo.\n\nThe Duo can be contacted by any one of the following:\n\nText (standard rate)\n07864 711 384\n\nWhatasapp\n07864 711 384\n\nEmail\nhero@herogames.live\n\nTwitter\n@herogameslive\n\nInstagram\n@herogameslive\n\n",
+
+    "revealcluesMission1": "LIVE WILDCARD LIVE WILDCARD LIVE WILDCARD"
+
+  },
+
+
+  {
+    "id": 1,
+
+    "intro": " We have just received this letter from the Viper.\n\nOur experts are trying to decode it but we need your help\n\n",
+
+    "clue": " Here is the letter. Be quick, it self-destructs in a few minutes.",
+
+    "hint": "This letter is in English so perhaps see if you can identify any themes in the numbers. Looking for possible vowels could be helpful.\n\n Vowels are A, E, I, O and U and almost every English word has at least one.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p1.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c1.png"
+
+
+  },
+
+  {
+    "id": 2,
+
+    "intro": "I can see you’re struggling Crime Fighter.\n\nTime for me to have a little fun.\n\n",
+
+    "clue": "The last word in my letter refers to the day something is going to happen. You’ve been warned…",
+
+    "hint": "There are only three days of the week with six letters. See if you can work out which day of the week the Viper is referring to. If you can do that, you can use the information to help solve the rest of the code.\n\nAlso, don’t all days end in the same last three letters? ",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p2.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c2.png"
+
+
+  },
+
+  {
+    "id": 3,
+
+    "intro": "Our professional code breakers have made a lot of progress.\n\nCan you finish it off before it’s too late?\n\n",
+
+    "clue": " This is what they have done so far. There isn’t much time left. We need your help Crime Fighter!",
+
+    "hint": " You can be confident that the Police code breakers have got their parts of the deciphered code correct",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p3.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c3.png"
+
+
+  },
+
+  {
+    "id": 0,
+
+    "intro": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "clue": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "hint": "This turns on or off the FREE WILDCARD MISSION.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/p4.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/c4.png"
+
+
+  },
+
+  {
+    "id": 0,
+
+    "intro": "Due to adverse weather warnings today's live scheduled mission will be replaced by an online Wildcard Mission.\n\nNew rewards list is in place.\n\nGood luck with the Wildcard Mission, Crime Fighter.",
+
+    "clue": "THIS TURNS ON THE WARNING SECTION.",
+
+    "hint": "THIS TURNS ON THE WARNING SECTION.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+
+  },
+
+  {
+    "id": 6,
+
+    "intro": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
+
+    "clue": "Central London",
+
+    "hint": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD).",
+
+    "introIMG": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/missionMap.png"
+
+  },
+
+  {
+    "id": 7,
+
+    "intro": "This is the introduction text for clue 7.",
+
+    "clue": "This is the clue text for clue 7.",
+
+    "hint": "This is the hint text for clue 7.",
+
+    "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
+
+    "clueIMG": "https://appzada.github.io/jsonStore/img/darkHero.png"
+
+  }
+
+]
+
