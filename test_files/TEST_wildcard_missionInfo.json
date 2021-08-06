@@ -4,7 +4,7 @@
 
     "prizeListMission1": "WildCard Missions are rapid, quick-fire missions not listed in the normal schedule.\n\nThey are over almost as fast as they have begun, so you better be quick and a little bit lucky!\n\nGood luck, Crime Fighter!\n",
 
-    "emailMission1": "The Viper has sent a coded letter to the Police. It self-destructs in 15 minutes. Your mission is to help the Police decipher the code before it’s too late.\n\nTo win be the first Crime Fighter to send your name and the decoded letter to Phantom Duo.\n\nThe Duo can be contacted by any one of the following:\n\nText (standard rate)\n07864 711 384\n\nWhatasapp)\n07864 711 384\n\nEmail\nhero@herogames.live\n\nTwitter\n@herogameslive\n\nInstagram\n@herogameslive\n\n",
+    "emailMission1": "The Viper has sent a coded letter to the Police. It self-destructs in 15 minutes. Your mission is to help the Police decipher the code before it’s too late.\n\nTo win be the first Crime Fighter to send your name and the decoded letter to the Phantom Duo.\n\nThe Duo can be contacted by any one of the following:\n\nText (standard rate)\n07864 711 384\n\nWhatasapp\n07864 711 384\n\nEmail\nhero@herogames.live\n\nTwitter\n@herogameslive\n\nInstagram\n@herogameslive\n\n",
 
     "revealcluesMission1": "LIVE WILDCARD LIVE WILDCARD LIVE WILDCARD"
 
@@ -14,7 +14,7 @@
   {
     "id": 1,
 
-    "intro": "This is your first WILD clue, Crime Fighter.\n\nGood luck finding the Viper. The whole of London is depending on you!\n\n",
+    "intro": " We have just received this letter from the Viper.\n\nOur experts are trying to decode it but we need your help\n\n",
 
     "clue": " Here is the letter. Be quick, it self-destructs in a few minutes.",
 
