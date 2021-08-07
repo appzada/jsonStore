@@ -100,7 +100,7 @@
 
     "hint": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD).",
 
-    "introIMG": "THIS IS FOR THE MAIN MISSION MAP ON DASHBOARD (NOT WILDCARD)",
+    "introIMG": "https://appzada.github.io/jsonStore/img/darkHero.png",
 
     "clueIMG": "https://appzada.github.io/jsonStore/img/missionMap.png"
 
