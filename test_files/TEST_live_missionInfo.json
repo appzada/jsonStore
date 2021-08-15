@@ -4,7 +4,7 @@
 
     "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £25 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a poison gas over London.\n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late. \n\nMission Notice: You must not enter any areas that are not open to the public or approach any live animals during this mission.",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release an unusual gas over London. We don't know what the effects of the gas will be. But we don't want to find out.\n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late. \n\nMission Notice: You must not enter any areas that are not open to the public or approach any live animals during this mission.",
 
     "revealcluesMission1": "The muddy footprints from the first clue revealed that the Viper had recently been in a park. The Viper gave away that he had been in Hyde Park by the way he mis-spelt 'hide and seek'. The Jester was telling a lie. You could tell this because he said the device was outside the Mission Map Area. The doomsday device was near both the horse track and the waterfall in Hyde Park, which meant the first location on the Army satellite map was the correct one. The code was 21-9-7-0.\n\n"
 
@@ -50,7 +50,7 @@
 
     "clue": "We could hear something in the background that sounded a little bit like the clip clop of horses hooves... The satellite image below might be of some help.",
 
-    "hint": "In cities, horses tracks tend to be long, wide and covered in sand. Can you see anything like that on the satellite image?",
+    "hint": "In cities, horse tracks tend to be long, wide and covered in sand. Can you see anything like that on the satellite image?",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p3.png",
 
@@ -98,7 +98,7 @@
 
     "clue": "The device needs to be close to falling water to disperse properly.",
 
-    "hint": "There is a waterfall in Hyde Park if you know where to look.",
+    "hint": "There is a waterfall in Hyde Park if you know where to look.\n\nRemember that you must not enter any area closed the the public. The doomsday device won't be in a restricted area.",
 
     "introIMG": "https://appzada.github.io/jsonStore/img/p6.png",
 
