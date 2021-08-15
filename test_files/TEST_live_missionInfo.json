@@ -4,7 +4,7 @@
 
     "prizeListMission1": "For their services to protecting London, the first Crime Fighter who completes the mission objective will be rewarded with all of the following:\n\n- Mafia Bike 20 inch BMX\n- Exclusive HG winner t-shirt\n- £25 vouchers*\n- £25 bonus vouchers* for wearing a superhero clothing item\n\n* Winner chooses the vouchers they receive e.g. gaming, clothes, books etc.\n\nRunner-up prizes are also available.\n\nGood luck, Crime Fighter. London is depending on you.\n\n",
 
-    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release an unusual gas over London. We don't know what the effects of the gas will be. But we don't want to find out.\n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late. \n\nMission Notice: You must not enter any areas that are not open to the public or approach any live animals during this mission.",
+    "emailMission1": "The Viper's plans are more advanced than we thought. He has developed a doomsday device that will release a secret cloud of gas over central London. We don't know what the gas will do. But we don't want to find out.\n\nThe device detonates in 60 minutes. Find it and defuse it before it’s too late. \n\nMission Notice: You must not enter any areas that are not open to the public or approach any live animals during this mission.",
 
     "revealcluesMission1": "The muddy footprints from the first clue revealed that the Viper had recently been in a park. The Viper gave away that he had been in Hyde Park by the way he mis-spelt 'hide and seek'. The Jester was telling a lie. You could tell this because he said the device was outside the Mission Map Area. The doomsday device was near both the horse track and the waterfall in Hyde Park, which meant the first location on the Army satellite map was the correct one. The code was 21-9-7-0.\n\n"
 
@@ -14,7 +14,7 @@
   {
     "id": 1,
 
-    "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.\n\n",
+    "intro": "Glad to have you back on the team, Crime Fighter.\n\nThings have just gotten pretty serious.",
 
     "clue": " Earlier today we raided the Viper's hideout. Do you notice anything?",
 
@@ -30,7 +30,7 @@
   {
     "id": 2,
 
-    "intro": "Ha… it’s you again.\n\nYou couldn't catch me in training, what makes you think you can catch me now!?\n\n ",
+    "intro": "Ha… it’s you again.\n\nYou couldn't catch me in training, what makes you think you can catch me now!? ",
 
     "clue": "Let’s make it a little more fun this time…\n\n What about a game of hyde and seek?",
 
@@ -46,7 +46,7 @@
   {
     "id": 3,
 
-    "intro": "We have intercepted a call made from the Viper about an hour ago. \n\nThere was some background noise. It might help you locate the doomsday device.\n\n ",
+    "intro": "We have intercepted a call made from the Viper about an hour ago. \n\nThere was some background noise. It might help you locate the doomsday device.",
 
     "clue": "We could hear something in the background that sounded a little bit like the clip clop of horses hooves... The satellite image below might be of some help.",
 
@@ -62,7 +62,7 @@
   {
     "id": 4,
 
-    "intro": "Hello there my little friend! \n\nI'm the Jester. Sometimes I tell the truth sometimes I tell a lie…\n\nWhich one will it be today!? \n\n",
+    "intro": "Hello there my little friend! \n\nI'm the Jester. Sometimes I tell the truth sometimes I tell a lie…\n\nWhich one will it be today!?",
 
     "clue": "The Viper has placed the doomsday device here…",
 
@@ -78,7 +78,7 @@
   {
     "id": 5,
 
-    "intro": "Good afternoon Crime Fighter.\n\nWe have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle.\n\n ",
+    "intro": "Good afternoon Crime Fighter.\n\nWe have hacked the Viper's computer.\n\nBut we need your help to solve this puzzle. ",
 
     "clue": "You'll need a numerical code to defuse the doomsday device. The Viper used this puzzle to remember the code. ",
 
@@ -94,7 +94,7 @@
   {
     "id": 6,
 
-    "intro": "You’re doing great Crime Fighter!\n\nWe have discovered more information about the doomsday device…\n\n ",
+    "intro": "You’re doing great Crime Fighter!\n\nWe have discovered more information about the doomsday device…",
 
     "clue": "The device needs to be close to falling water to disperse properly.",
 
@@ -109,7 +109,7 @@
   {
     "id": 7,
 
-    "intro": "This is Joe from Military Intelligence.\n\nWe have identified unusual radio signals coming from these areas.\n\n ",
+    "intro": "This is Joe from Military Intelligence.\n\nWe have identified unusual radio signals coming from these areas.",
 
     "clue": "One of these must be the doomsday device…",
 
