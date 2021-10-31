@@ -16,10 +16,10 @@
     "name": "Vipers Nest",
     "date": "Sunday 7 November 2021",
     "location": "Central London",
-    "duration": "Duration 60 minutes",
-    "rewardsType": "Mafiabike BMX and more...",
-    "status": "Confirmed",
-    "year": 2021,
+    "duration": "Cancelled",
+    "rewardsType": "Cancelled",
+    "status": "Cancelled",
+    "year": 2022,
     "month":11,
     "day": 7,
     "hour": 13,
@@ -32,16 +32,15 @@
   {
     "id": 4,
     "name": "Live Mission Two",
-    "date": "Sunday 5 December 2021",
-    "status": "Mission Confirmed",
+    "date": "To be decided",
+    "status": "Mission Pending",
     "location": "London, United Kingdom"
   },
 
   {
     "id": 2,
-    "name": "Live Mission Two",
-    "date": "Sunday 2 January 2022",
-    "status": "Mission Confirmed",
+    "date": "To be decided",
+    "status": "Mission Pending",
     "location": "London, United Kingdom"
   },
 
